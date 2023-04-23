@@ -2,19 +2,19 @@
 
 This is an E-Wallet App built with Python Flask Framework. The app allows users to purchase airtime, data, cable TV subscriptions, and electricity bills. It also enables users to send and receive cryptocurrencies.
 
-Features
-User Authentication using JWT (JSON Web Token)
+Features:
+User Authentication using JWT (JSON Web Token),
 Purchase of airtime, data, cable TV subscriptions, and electricity bills
-Sending and receiving of cryptocurrencies
-Technologies Used
+Sending and receiving of cryptocurrencies.
+Technologies Used:
 Python Flask Framework
 JWT (JSON Web Token)
 SQLite Database
 RESTful API
 Future Improvements
-Integration of more payment options
-Development of a web interface
-Addition of push notifications for transaction alerts
+Integration of more payment options,
+Development of a web interface,
+Addition of push notifications for transaction alerts,
 Implementation of sms based otp code for confirmation of transactions.
 Installation
 To run the app locally, follow these steps:
